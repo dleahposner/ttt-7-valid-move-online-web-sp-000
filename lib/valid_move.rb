@@ -1,6 +1,4 @@
 def valid_move?(board, index)
- if #{user_input}.between?(1, 9)
-   true
 end
 
 
